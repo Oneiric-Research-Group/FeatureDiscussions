@@ -17,7 +17,7 @@ By contributing you agree to our [terms and services]()
 
 ### 😕 Stuck somewhere ?
 
-Read the official docs/ litepaper here: [docs.sunflower-land.com](https://docs.sunflower-land.com/)
+Read the official docs/ litepaper here: [Our gitbook]()
 
 ### ‼️ Have a suggestion/proposal/cool idea ?
 
