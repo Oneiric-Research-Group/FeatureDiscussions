@@ -86,7 +86,6 @@ Maintaining a project with over 50 open-source developers brings a range of chal
 - Readability and maintainability
 - Managing expectations, deadlines and contributors leaving the project
 - Tokenomics design
-- Anything that gets added to the project is more code that needs to be maintained by Thought Farm.
 
 While we appreciate UI and gameplay PRs, we need these pieces of work to fit into the core team's development workflow to ensure work is pair programmed, has sufficient automated testing, is understood by the team, is peer-reviewed, aligns with the tokenomics of the game and adheres with the vision of the project.
 
