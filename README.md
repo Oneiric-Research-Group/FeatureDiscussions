@@ -5,7 +5,7 @@ The goal of this project is to create a decentralized and community-driven appro
 
 This repo includes the front-end game in which users can play and interact with AI agents as well as offchain data.
 
-Looking to help out? Read our [contributing docs](https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/docs/CODE_CONTRIBUTING.md)
+Looking to help out? Read our [contributing docs](https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/CODE_CONTRIBUTING.md)
 
 By contributing you agree to our [terms and services]()
 
@@ -29,9 +29,9 @@ You can take a look at the instructions in [CODE_CONTRIBUTING.md](https://github
 
 # 🤝 Contributing Guidelines
 
-👨‍💻 Developers - https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/docs/CODE_CONTRIBUTING.md
+👨‍💻 Developers - https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/CODE_CONTRIBUTING.md
 
-🧑‍🎨 Artists - https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/docs/ART_CONTRIBUTING.md
+🧑‍🎨 Artists - https://github.com/Oneiric-Research-Group/FeatureDiscussions/blob/main/ART_CONTRIBUTING.md
 
 # ⚖️ No Licence
 
